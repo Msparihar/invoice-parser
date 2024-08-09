@@ -1,0 +1,17 @@
+{
+  "Customer Details": {
+    "Name": "TEST Test",
+    "Address": "Hyderabad, TELANGANA, 500089",
+    "Phone": "9108239284",
+    "Email": "test@gmail.com"
+  },
+  "Products": [
+    {
+      "Name": "WASTE AND SCRAP OF STAINLESS STEEL HSN: 72042190",
+      "Quantity": "6,790 KGS",
+      "Rate": "95.00/KGS",
+      "Total Amount": "6,45,050.00"
+    }
+  ],
+  "Total Amount": "7,68,771.00"
+}
